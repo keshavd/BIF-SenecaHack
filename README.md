@@ -8,5 +8,7 @@ Protein Mass spectrometry is application of mass spectrometry to proteins. Mass 
 Lınks to the data sets:
 
 1. https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00096 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00096) (MS data is located under data_mzXML)
+
 2: https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00011 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00011) (MS data are the mzXML files, not the excel files)
+
 3: https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00091 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00091) (MS data in the mzXML_Part# folders)
