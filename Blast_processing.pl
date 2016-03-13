@@ -49,8 +49,8 @@ for(my $i=0; $i<$number_of_iterations; $i++){
  			push @proteins, $protein_name;
  		}
  	}
- 	print "@proteins";
- 	print scalar @proteins;
+ 	#print "@proteins";
+ 	#print scalar @proteins;
 
  	open my $out, ">>", "output.txt";
 
