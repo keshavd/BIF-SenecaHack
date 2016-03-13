@@ -1,4 +1,4 @@
-#REQUIRES: web_blast.pl
+#REQUIRES: Blast_processing.pl
 #TAKES
 #INPUT FASTA: PRIDE.fasta
 #OUTPUT FILE: output.txt 
@@ -26,11 +26,11 @@ chomp($species = substr($species, 1));
 
 
 for(my $i=0; $i<$number_of_iterations; $i++){
- #	open my $fasta, ">", "input.fasta";
- #	my @test = splice(@total_fasta_lines, 0, 60);
- #	print $fasta "@test";
- #	system "perl web_blast.pl blastp nr input.fasta > result.txt";
- #	##### PROCESS RESULT ####
+ 	open my $fasta, ">", "input.fasta";
+ 	my @test = splice(@total_fasta_lines, 0, 60);
+ 	print $fasta "@test";
+ 	system "perl web_blast.pl blastp nr input.fasta > result.txt";
+ 	##### PROCESS RESULT ####
  	open my $result, "<", "result.txt";
  	my @total_result_lines = <$result>;
  	my @relevant_lines;
@@ -52,7 +52,7 @@ for(my $i=0; $i<$number_of_iterations; $i++){
  	print "@proteins";
  	print scalar @proteins;
 
- 	open my $out, ">>", "$output.txt";
+ 	open my $out, ">>", "output.txt";
 
 	foreach(@proteins){
 		print $out "$_:$species\n";
