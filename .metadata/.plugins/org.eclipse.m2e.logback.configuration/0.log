@@ -1,0 +1,1196 @@
+2016-03-12 22:34:53,008 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-03-12 22:42:22,410 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml
+2016-03-12 22:42:23,026 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: biohacks:biohacksArtifact:0.0.1-SNAPSHOT @ /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml.
+2016-03-12 22:42:23,183 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /biohacksArtifact/src/main/java
+2016-03-12 22:42:23,184 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /biohacksArtifact/src/test/java
+2016-03-12 22:42:23,211 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-03-12 22:42:23,523 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:42:23,523 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:42:23,524 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:42:23,525 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:42:38,495 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:42:38,495 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:42:38,496 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:42:38,496 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:44:09,494 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: biohacks:biohacksArtifact:0.0.1-SNAPSHOT @ /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml.
+2016-03-12 22:44:09,837 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-03-12 22:44:10,013 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2016-03-12 22:44:10,142 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:10,143 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:44:10,144 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:10,145 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:44:11,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:11,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:44:11,280 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:11,280 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:44:53,601 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:53,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:44:53,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:44:53,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:45:43,328 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:45:43,328 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:45:43,329 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:45:43,329 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:46:45,522 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:46:45,522 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:46:45,523 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:46:45,524 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:55:31,881 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: biohacks:biohacksArtifact:0.0.1-SNAPSHOT @ /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml.
+2016-03-12 22:55:31,983 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:31,983 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:55:31,985 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:31,985 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:55:33,187 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:33,187 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:55:33,188 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:33,188 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:55:35,101 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:35,101 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:55:35,102 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:55:35,102 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:56:02,070 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:02,071 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:56:02,072 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:02,072 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:56:17,554 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: biohacks:biohacksArtifact:0.0.1-SNAPSHOT @ /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml.
+2016-03-12 22:56:17,661 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:17,662 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:56:17,663 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:17,663 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:56:18,838 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:18,838 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:56:18,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:18,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:56:57,167 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:57,167 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:56:57,168 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:56:57,168 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:57:05,314 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:57:05,314 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:57:05,315 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:57:05,315 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:57:55,008 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:57:55,008 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:57:55,009 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:57:55,009 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:58:01,520 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:01,520 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:58:01,521 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:01,521 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:58:29,072 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:29,072 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:58:29,072 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:29,073 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:58:40,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:40,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:58:40,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:40,449 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:58:55,125 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:55,125 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:58:55,126 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:58:55,126 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:59:06,098 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:06,098 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:59:06,099 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:06,099 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:59:19,767 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:19,767 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:59:19,768 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:19,768 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:59:26,643 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:26,643 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:59:26,644 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:26,644 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 22:59:51,358 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:51,358 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 22:59:51,359 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 22:59:51,359 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:00:21,756 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:21,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:00:21,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:21,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:00:24,065 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:24,065 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:00:24,066 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:24,066 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:00:39,667 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:39,667 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:00:39,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:00:39,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:03:11,590 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:11,590 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:03:11,591 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:11,591 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:03:18,098 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:18,098 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:03:18,099 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:18,099 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:03:32,605 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:32,605 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:03:32,606 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:32,606 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:03:55,874 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:55,874 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:03:55,875 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:03:55,875 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:04:07,532 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:04:07,532 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:04:07,533 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:04:07,533 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:06:15,733 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:06:15,733 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:06:15,734 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:06:15,734 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:07:01,073 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:07:01,073 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:07:01,074 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:07:01,074 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:09:33,420 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:09:33,420 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:09:33,421 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:09:33,421 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:09:48,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:09:48,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:09:48,679 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:09:48,679 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:10:16,535 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:16,535 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:10:16,536 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:16,536 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:10:23,349 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:23,349 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:10:23,350 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:23,351 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:10:24,366 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:24,367 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:10:24,367 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:24,367 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:10:38,760 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:38,760 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:10:38,761 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:38,761 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:10:44,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:44,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:10:44,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:10:44,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:11:22,633 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:22,633 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:11:22,634 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:22,634 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:11:32,259 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:32,259 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:11:32,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:32,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:11:41,942 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:41,943 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:11:41,944 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:41,944 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:11:52,493 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:52,493 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:11:52,494 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:11:52,494 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:12:06,726 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:12:06,726 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:12:06,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:12:06,727 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:12:30,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:12:30,159 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:12:30,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:12:30,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:13:30,091 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:13:30,091 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:13:30,092 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:13:30,092 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:13:36,869 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:13:36,869 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:13:36,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:13:36,870 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:14:13,653 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:13,653 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:14:13,654 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:13,654 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:14:27,379 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:27,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:14:27,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:27,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:14:42,245 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:42,245 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:14:42,245 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:42,245 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:14:46,487 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:46,487 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:14:46,488 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:46,488 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:14:59,078 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:59,078 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:14:59,079 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:14:59,079 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:15:48,854 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:48,854 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:15:48,855 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:48,855 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:15:52,254 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:52,254 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:15:52,255 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:52,255 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:15:53,783 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:53,784 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:15:53,784 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:15:53,784 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:19:28,392 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:19:28,392 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:19:28,393 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:19:28,393 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:19:40,006 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:19:40,006 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:19:40,007 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:19:40,007 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:20:05,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:05,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:20:05,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:05,928 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:20:18,111 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:18,111 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:20:18,112 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:18,112 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:20:46,815 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:46,816 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:20:46,816 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:20:46,817 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:22:18,785 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:18,785 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:22:18,786 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:18,786 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:22:37,790 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:37,790 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:22:37,791 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:37,791 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:22:50,674 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:50,674 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:22:50,675 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:50,676 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:22:55,212 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:55,212 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:22:55,212 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:22:55,213 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:23:17,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:17,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:23:17,507 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:17,507 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:23:25,874 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:25,874 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:23:25,875 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:25,875 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:23:36,329 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:36,330 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:23:36,330 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:36,330 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:23:43,087 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:43,087 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:23:43,088 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:43,088 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:23:57,504 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:57,504 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:23:57,505 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:23:57,505 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:24:01,400 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:24:01,400 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:24:01,401 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:24:01,401 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:24:41,563 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:24:41,563 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:24:41,564 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:24:41,564 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:20,986 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:20,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:20,988 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:20,988 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:27,874 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:27,874 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:27,875 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:27,875 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:34,511 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:34,511 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:34,512 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:34,512 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:39,540 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:39,541 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:39,541 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:39,541 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:41,919 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:41,919 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:41,919 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:41,919 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:49,009 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:49,009 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:49,010 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:49,010 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:28:59,666 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:59,666 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:28:59,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:28:59,667 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:31:26,646 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:26,646 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:31:26,647 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:26,647 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:31:47,351 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:47,351 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:31:47,352 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:47,352 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:31:54,786 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:54,786 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:31:54,787 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:31:54,787 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:08,835 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:08,835 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:08,836 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:08,836 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:09,910 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:09,910 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:09,911 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:09,911 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:18,488 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:18,488 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:18,489 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:18,489 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:33,546 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:33,546 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:33,547 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:33,547 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:40,081 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:40,081 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:40,083 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:40,083 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:45,085 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:45,085 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:45,086 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:45,086 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:32:51,098 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:51,098 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:32:51,099 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:32:51,099 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:33:18,801 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:33:18,801 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:33:18,802 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:33:18,802 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:36:24,062 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:36:24,062 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:36:24,063 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:36:24,063 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:36:42,592 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:36:42,592 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:36:42,593 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:36:42,593 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:37:38,450 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:38,450 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:37:38,450 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:38,451 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:37:40,246 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:40,246 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:37:40,247 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:40,247 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:37:57,057 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:57,057 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:37:57,058 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:37:57,058 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:39:42,139 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:42,140 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:39:42,140 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:42,140 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:39:50,917 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:50,917 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:39:50,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:50,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:39:57,269 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:57,269 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:39:57,270 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:39:57,270 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:40:12,485 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:12,485 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:40:12,486 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:12,486 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:40:15,942 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:15,942 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:40:15,943 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:15,943 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:40:47,563 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:47,563 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:40:47,564 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:47,564 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:40:55,702 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:55,702 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:40:55,703 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:55,703 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:40:59,856 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:59,856 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:40:59,857 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:40:59,857 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:41:10,000 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:10,000 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:41:10,001 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:10,001 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:41:25,108 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:25,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:41:25,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:25,109 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:41:46,668 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:46,668 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:41:46,669 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:41:46,669 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:00,213 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:00,213 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:00,213 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:00,213 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:07,462 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:07,462 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:07,463 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:07,463 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:10,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:10,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:10,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:10,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:34,739 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:34,739 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:34,739 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:34,739 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:47,994 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:47,994 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:47,994 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:47,994 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:53,317 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:53,317 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:53,318 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:53,318 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:42:55,640 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:55,640 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:42:55,640 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:42:55,641 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:43:13,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:13,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:43:13,447 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:13,447 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:43:20,014 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:20,014 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:43:20,015 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:20,015 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:43:29,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:29,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:43:29,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:43:29,322 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:44:27,894 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:44:27,894 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:44:27,895 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:44:27,895 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:44:30,958 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:44:30,958 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:44:30,959 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:44:30,959 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:08,737 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:08,737 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:08,738 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:08,738 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:19,720 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:19,720 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:19,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:19,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:36,550 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:36,550 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:36,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:36,551 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:47,261 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:47,261 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:47,262 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:47,262 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:49,787 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:49,787 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:49,788 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:49,788 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:45:51,976 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:51,976 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:45:51,976 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:45:51,976 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:46:31,503 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:46:31,503 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:46:31,504 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:46:31,504 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:51:49,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:51:49,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:51:49,595 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:51:49,595 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:51:53,450 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:51:53,450 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:51:53,451 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:51:53,451 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:52:11,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:52:11,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:52:11,573 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:52:11,573 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:52:59,247 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:52:59,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:52:59,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:52:59,248 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:53:14,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:14,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:53:14,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:14,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:53:18,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:18,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:53:18,819 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:18,819 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:53:22,897 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:22,897 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:53:22,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:22,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:53:23,962 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:23,962 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:53:23,963 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:23,963 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:53:52,459 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:52,459 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:53:52,460 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:53:52,460 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:54:51,449 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: biohacks:biohacksArtifact:0.0.1-SNAPSHOT @ /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/pom.xml.
+2016-03-12 23:54:51,585 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:51,585 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:54:51,587 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:51,587 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:54:52,722 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:52,722 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:54:52,723 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:52,723 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:54:53,752 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:53,752 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:54:53,754 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:54:53,754 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:55:01,830 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:55:01,830 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:55:01,831 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:55:01,831 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:56:00,847 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:00,847 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:56:00,848 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:00,849 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:56:13,676 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:13,676 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:56:13,677 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:13,677 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:56:16,219 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:16,219 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:56:16,220 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:16,220 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:56:30,822 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:30,822 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:56:30,823 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:30,823 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:56:55,772 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:55,773 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:56:55,773 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:56:55,773 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:57:06,092 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:06,093 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:57:06,093 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:06,093 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:57:24,112 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:24,112 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:57:24,113 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:24,113 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-12 23:57:35,373 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:35,373 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-12 23:57:35,374 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-12 23:57:35,374 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:03:39,003 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:39,003 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:03:39,004 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:39,004 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:03:43,926 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:43,926 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:03:43,927 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:43,927 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:03:46,092 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:46,092 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:03:46,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:03:46,093 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:04:18,772 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:04:18,772 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:04:18,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:04:18,773 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:04:23,422 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:04:23,422 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:04:23,423 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:04:23,423 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:06:01,328 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:01,328 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:06:01,329 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:01,329 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:06:15,172 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:15,172 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:06:15,173 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:15,173 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:06:16,239 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:16,239 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:06:16,240 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:06:16,240 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:07:08,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:08,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:07:08,657 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:08,657 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:07:15,356 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:15,356 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:07:15,357 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:15,357 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:07:19,895 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:19,895 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:07:19,896 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:19,896 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:07:56,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:56,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:07:56,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:07:56,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:03,507 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:03,508 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:03,508 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:03,508 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:08,732 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:08,732 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:08,733 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:08,733 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:10,016 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:10,016 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:10,016 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:10,017 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:11,862 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:11,862 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:11,863 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:11,863 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:21,618 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:21,618 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:21,619 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:21,619 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:35,795 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:35,796 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:35,796 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:35,796 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:56,812 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:56,813 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:56,814 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:56,814 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:08:58,715 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:58,715 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:08:58,715 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:08:58,715 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:09:28,557 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:09:28,558 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:09:28,558 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:09:28,558 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:10:56,073 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:10:56,073 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:10:56,074 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:10:56,074 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:11:26,119 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:26,119 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:11:26,120 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:26,120 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:11:38,388 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:38,388 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:11:38,389 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:38,389 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:11:53,354 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:53,355 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:11:53,355 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:11:53,355 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:12:07,445 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:07,446 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:12:07,446 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:07,446 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:12:25,121 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:25,121 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:12:25,121 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:25,121 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:12:38,285 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:38,285 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:12:38,286 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:12:38,286 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:13:57,849 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:13:57,849 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:13:57,849 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:13:57,850 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:14:21,978 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:14:21,978 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:14:21,979 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:14:21,979 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:14:28,741 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:14:28,741 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:14:28,741 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:14:28,741 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:04,645 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:04,645 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:04,645 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:04,645 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:11,861 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:11,861 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:11,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:11,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:14,443 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:14,443 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:14,443 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:14,444 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:19,435 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:19,435 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:19,436 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:19,436 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:27,488 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:27,488 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:27,489 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:27,489 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:50,825 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:50,825 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:50,826 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:50,826 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:53,672 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:53,672 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:53,673 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:53,673 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:15:59,396 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:59,396 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:15:59,397 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:15:59,397 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:16:06,393 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:16:06,393 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:16:06,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:16:06,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:16:12,276 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:16:12,276 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:16:12,276 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:16:12,276 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:31:51,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:31:51,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:31:51,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:31:51,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:33:09,244 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:09,244 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:33:09,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:09,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:33:19,422 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:19,422 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:33:19,423 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:19,423 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:33:27,116 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:27,116 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:33:27,116 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:27,117 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:33:46,331 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:46,331 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:33:46,332 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:33:46,332 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:04,531 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:04,531 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:04,532 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:04,532 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:10,562 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:10,562 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:10,562 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:10,562 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:12,706 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:12,706 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:12,707 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:12,707 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:15,836 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:15,836 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:15,837 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:15,837 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:55,375 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:55,375 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:55,376 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:55,376 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:37:59,323 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:59,323 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:37:59,324 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:37:59,324 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:39:32,561 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:39:32,561 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:39:32,562 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:39:32,562 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:39:53,878 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:39:53,878 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:39:53,879 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:39:53,879 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:40:43,007 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:40:43,007 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:40:43,008 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:40:43,008 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:41:16,327 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:41:16,327 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:41:16,328 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:41:16,328 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:52:48,159 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:52:48,159 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:52:48,160 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:52:48,160 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:53:17,707 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:17,707 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:53:17,708 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:17,708 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:53:35,835 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:35,835 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:53:35,836 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:35,836 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:53:36,898 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:36,899 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:53:36,899 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:36,899 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:53:43,970 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:43,970 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:53:43,970 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:43,970 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:53:52,529 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:52,529 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:53:52,530 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:53:52,530 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:55:48,398 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:55:48,398 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:55:48,399 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:55:48,399 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:55:59,904 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:55:59,904 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:55:59,905 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:55:59,905 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:04,082 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:04,082 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:04,083 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:04,083 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:08,957 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:08,957 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:08,958 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:08,958 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:20,021 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:20,021 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:20,021 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:20,022 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:27,585 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:27,585 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:27,586 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:27,586 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:30,217 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:30,217 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:30,218 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:30,218 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:33,961 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:33,961 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:33,962 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:33,962 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:35,910 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:35,910 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:35,911 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:35,911 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:56:37,686 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:37,686 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:56:37,687 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:56:37,687 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:57:01,824 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:01,824 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:57:01,825 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:01,825 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:57:18,899 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:18,899 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:57:18,900 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:18,901 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:57:52,092 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:52,092 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:57:52,093 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:57:52,093 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:58:11,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:11,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:58:11,769 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:11,769 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:58:20,996 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:20,996 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:58:20,997 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:20,997 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:58:44,981 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:44,981 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:58:44,982 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:58:44,982 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:19,678 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:19,678 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:19,679 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:19,679 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:22,216 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:22,217 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:22,217 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:22,217 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:30,387 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:30,387 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:30,388 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:30,388 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:37,498 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:37,499 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:37,499 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:37,499 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:43,591 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:43,591 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:43,592 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:43,592 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 00:59:47,997 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:47,997 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 00:59:47,998 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 00:59:47,998 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:00:05,561 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:05,561 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:00:05,562 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:05,562 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:00:21,407 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:21,407 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:00:21,408 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:21,408 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:00:27,345 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:27,345 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:00:27,346 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:27,346 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:00:32,970 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:32,970 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:00:32,971 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:32,971 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:00:46,731 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:46,731 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:00:46,732 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:00:46,732 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:01:00,855 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:01:00,855 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:01:00,856 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:01:00,856 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:01:50,536 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:01:50,536 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:01:50,537 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:01:50,537 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:02:27,230 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:27,230 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:02:27,231 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:27,231 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:02:49,402 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:49,402 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:02:49,402 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:49,402 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:02:59,134 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:59,135 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:02:59,135 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:02:59,135 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:03:30,984 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:03:30,984 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:03:30,986 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:03:30,986 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:04:16,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:04:16,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:04:16,149 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:04:16,149 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:04:53,757 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:04:53,757 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:04:53,758 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:04:53,758 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:05:00,696 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:00,696 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:05:00,697 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:00,697 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:05:23,978 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:23,978 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:05:23,978 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:23,978 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:05:41,983 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:41,983 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:05:41,984 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:41,984 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:05:52,585 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:52,585 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:05:52,586 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:05:52,586 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:06:05,256 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:05,256 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:06:05,257 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:05,257 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:06:12,764 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:12,764 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:06:12,765 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:12,765 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:06:25,142 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:25,142 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:06:25,143 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:25,143 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:06:30,215 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:30,216 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:06:30,216 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:30,216 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:06:45,826 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:45,826 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:06:45,827 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:06:45,827 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:07:30,882 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:07:30,882 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:07:30,883 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:07:30,883 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:09:36,957 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:36,957 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:09:36,958 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:36,958 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:09:42,570 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:42,570 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:09:42,571 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:42,571 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:09:46,772 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:46,772 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:09:46,773 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:09:46,773 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:10:06,435 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:06,435 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:10:06,436 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:06,436 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:10:43,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:43,767 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:10:43,768 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:43,768 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:10:56,880 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:56,880 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:10:56,881 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:10:56,881 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:11:05,093 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:11:05,093 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:11:05,094 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:11:05,094 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:11:59,450 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:11:59,450 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:11:59,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:11:59,451 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:12:02,039 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:12:02,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:12:02,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:12:02,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:07,725 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:07,725 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:07,725 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:07,725 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:13,254 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:13,254 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:13,255 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:13,255 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:23,690 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:23,690 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:23,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:23,691 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:45,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:45,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:45,859 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:45,859 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:56,836 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:56,836 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:56,837 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:56,837 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:13:59,018 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:59,018 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:13:59,019 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:13:59,019 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:14:21,995 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:14:21,995 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:14:21,995 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:14:21,996 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:14:30,160 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:14:30,161 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:14:30,161 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:14:30,161 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:15:05,154 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:05,154 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:15:05,154 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:05,155 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:15:43,568 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:43,568 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:15:43,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:43,569 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:15:48,855 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:48,855 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:15:48,856 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:15:48,856 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:00,414 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:00,414 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:00,415 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:00,415 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:17,682 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:17,682 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:17,683 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:17,683 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:21,712 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:21,712 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:21,713 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:21,713 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:34,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:34,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:34,865 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:34,865 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:40,351 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:40,351 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:40,352 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:40,352 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:16:51,742 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:51,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:16:51,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:16:51,743 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:01,531 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:01,531 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:01,531 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:01,531 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:14,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:14,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:14,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:14,572 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:22,998 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:22,998 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:22,999 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:22,999 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:44,215 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:44,215 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:44,215 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:44,216 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:46,483 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:46,483 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:46,484 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:46,484 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:51,126 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:51,126 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:51,126 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:51,126 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:17:54,821 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:54,821 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:17:54,822 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:17:54,822 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:18:08,145 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:08,146 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:18:08,146 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:08,146 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:18:15,318 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:15,318 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:18:15,318 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:15,318 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:18:27,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:27,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:18:27,658 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:27,658 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:18:31,074 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:31,074 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:18:31,075 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:18:31,075 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:19:27,139 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:19:27,139 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:19:27,139 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:19:27,140 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:21:38,544 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:21:38,545 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:21:38,545 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:21:38,545 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:22:03,128 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:22:03,128 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:22:03,129 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:22:03,129 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:25:50,396 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:25:50,397 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:25:50,397 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:25:50,397 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources
+2016-03-13 01:26:02,525 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:26:02,525 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/main/resources
+2016-03-13 01:26:02,526 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-13 01:26:02,526 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nmerwin/Documents/uoftBiohacks/BIF-SenecaHack/biohacksArtifact/src/test/resources

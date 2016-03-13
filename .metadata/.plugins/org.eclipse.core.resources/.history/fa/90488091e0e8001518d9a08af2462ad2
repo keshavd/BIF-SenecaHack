@@ -1,0 +1,84 @@
+package biohacks.biohacksArtifact;
+
+import java.io.StringReader;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
+
+public class XMLParser {
+
+	
+	
+	
+
+
+	/**
+	 *  Searches XML from qstat for a specific job name (file name when running qsub)
+	 *  Returns the state of the parent node. 
+	 *  
+	 *  @param XML An XML document containing the output of qstat
+	 *  @param jobName A string containing the name of the job to search for
+	 *  
+	 */
+	public static String jobStatusQuery(Document XML,String jobName){
+
+		// Remove any "weird" elements of the XML
+		XML.getDocumentElement().normalize();
+
+		NodeList nameList = XML.getElementsByTagName("JB_name");
+		String jobStatus = null;
+		String eachJobName;
+
+		if(nameList.getLength() < 1){
+			jobStatus = "missing";
+
+		}else{
+			// loop through all JB_names
+			for(int i=0; i<nameList.getLength(); i++){
+
+				//Convert to element
+				Node nameNode = nameList.item(i);
+				Element eNameNode = (Element) nameNode;
+
+				eachJobName = eNameNode.getTextContent();
+
+				// if jobname matches input, return state of job
+				if(eachJobName.equals(jobName)){
+					Element eParent = (Element)eNameNode.getParentNode();
+					jobStatus = eParent.getAttribute("state");
+				}
+
+			}
+		}
+		return jobStatus;
+	}
+	
+	
+	/**
+	 * Function that converts a given string input into a Document class
+	 * 
+	 * @param xmlStr A string holding an xml document
+	 */
+	public static Document convertStringToDocument(String xmlStr) {
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();  
+		DocumentBuilder builder;  
+		try 
+		{  
+			builder = factory.newDocumentBuilder();  
+			Document doc = builder.parse( new InputSource( new StringReader( xmlStr ) ) ); 
+			return doc;
+		} catch (Exception e) {  
+			System.out.println("BLAHH");
+		} 
+		return null;
+	}
+	
+	
+	
+}

@@ -1,0 +1,8 @@
+package biohacks.biohacksArtifact;
+
+public class FormatFasta {
+
+	
+	public static void writeFasta(String species, LinkedList<String> sequences)
+
+}

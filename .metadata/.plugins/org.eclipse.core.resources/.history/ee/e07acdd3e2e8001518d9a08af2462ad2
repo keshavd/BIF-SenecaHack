@@ -1,0 +1,14 @@
+package biohacks.biohacksArtifact;
+
+import java.util.LinkedList;
+
+public class FormatFasta {
+
+	
+	public static void writeFasta(String species, LinkedList<String> sequences){
+		
+		
+		
+	}
+
+}

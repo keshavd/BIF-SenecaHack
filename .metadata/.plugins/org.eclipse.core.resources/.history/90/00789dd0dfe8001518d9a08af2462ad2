@@ -1,0 +1,26 @@
+package biohacks.biohacksArtifact;
+
+public class XMLParser {
+
+	
+	
+	/**
+	 * Function that converts a given string input into a Document class
+	 * 
+	 * @param xmlStr A string holding an xml document
+	 */
+	public static Document convertStringToDocument(String xmlStr) {
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();  
+		DocumentBuilder builder;  
+		try 
+		{  
+			builder = factory.newDocumentBuilder();  
+			Document doc = builder.parse( new InputSource( new StringReader( xmlStr ) ) ); 
+			return doc;
+		} catch (Exception e) {  
+			Utils.writeToLog("Failed to convert to document. " + e.getMessage());
+			System.exit(2);
+		} 
+		return null;
+	}
+}

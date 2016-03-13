@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entrySet level="2" version="5" xmlns="net:sf:psidev:mi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="net:sf:psidev:mi http://psidev.sourceforge.net/mi/rel25/src/MIF25.xsd">
+  <entry>
+    <experimentList>
+      <experimentDescription id="7">
+        <names>
+          <shortLabel>automated_textmining</shortLabel>
+          <fullName>Unsupervised, automated mining of biomedical texts: analysis of protein-protein co-mentioning</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15808823"/>
+            <secondaryRef db="pubmed" id="16046493"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>predictive text mining</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0087"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="6">
+        <names>
+          <shortLabel>knowledge datamining</shortLabel>
+          <fullName>Import of protein-protein association information from curated knowledge databases</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="14681412"/>
+            <secondaryRef db="pubmed" id="15608231"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>experimental knowledge based</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0046"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="5">
+        <names>
+          <shortLabel>experimental_interaction_data</shortLabel>
+          <fullName>Global analysis of protein-protein interaction data, obtained from the literature and from large-scale datasets (BIND database)</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15608229"/>
+            <secondaryRef db="pubmed" id="15193308"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>experimental knowledge based</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0046"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="4">
+        <names>
+          <shortLabel>gene_coexpression</shortLabel>
+          <fullName>Combined analysis of available microarray data, co-expression analysis</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="9843981"/>
+            <secondaryRef db="pubmed" id="12934013"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="3">
+        <names>
+          <shortLabel>gene_cooccurence</shortLabel>
+          <fullName>Analysis of presence/absence patterns of genes in genomes: functional partners co-occur</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10200254"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>sequence based phylogenetic profile</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0100"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="2">
+        <names>
+          <shortLabel>gene_fusion_events</shortLabel>
+          <fullName>Detection of gene fusion events: functional linkage inferred for the separate components in other genomes</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10427000"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+            <secondaryRef db="pubmed" id="10573422"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>domain fusion</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0036"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="1">
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10077608"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+            <secondaryRef db="pubmed" id="9787636"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>gene neighborhoods</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0057"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="0">
+        <names>
+          <shortLabel>combined_confidence</shortLabel>
+          <fullName>Probabilistic, benchmarked integration of all evidence types: combined confidence score of predicted functional association (range 0.0 to 1.0)</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15608232"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:9999"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+    </experimentList>
+    <interactorList>
+      <interactor id="12">
+        <names>
+          <shortLabel>VAN1</shortLabel>
+          <fullName>Component of the mannan polymerase I, which contains Van1p and Mnn9p and is involved in the first steps of mannan synthesis; mutants are vanadate-resistant; Involved in regulation of the phosphorylation of a number of proteins, some of which appear to be important in cell growth control</fullName>
+        </names>
+        <xref>
+          <primaryRef db="ensembl" dbAc="MI:0476" id="YML115C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ID" dbAc="MI:9999" id="sce:YML115C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="Z49210" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="YML115Cp-like protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="YM8339.04C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Vanadate resistance protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Van1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_SYNONYM" dbAc="MI:9999" id="VRG8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_SYNONYM" dbAc="MI:9999" id="VRG7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VL3_3502" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VIN13_3488" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt" dbAc="MI:9999" id="VAN1_YEAST" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EntrezGene" dbAc="MI:9999" id="VAN1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniParc" dbAc="MI:9999" id="UPI00001380F8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SCRG_01784" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_PIR" dbAc="MI:9999" id="S53957" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="S000004583" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="QA23_3500" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_AC" dbAc="MI:9999" id="P23642" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_013592.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NM_001182477.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Mannan polymerase I complex VAN1 subunit" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="M33957" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_SYNONYM" dbAc="MI:9999" id="LDB13" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000002453" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="K7_Van1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="K7_VAN1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="G2WJU1_YEASK" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="G2WJU1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSO_3440" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSB_3454" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="FN393082" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ec" dbAc="MI:9999" id="EC:2.4.1.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="EC1118_1M3_0199g" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7QIS0_YEASZ" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7QIS0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7Q7E7_YEASB" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7Q7E7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7NL67_YEASO" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7NL67" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7LYJ0_YEASV" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7LYJ0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KSA3_YEASL" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KSA3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KG55_YEASA" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KG55" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="DG000049" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="DAA09783.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_synonym" dbAc="MI:9999" id="D6W0G9" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="CH408047" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="CAA89103.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C8ZE88_YEAS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C8ZE88" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C7GV97_YEAS2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C7GV97" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="BK006946" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VP15_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VP15" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B3LLE4_YEAS1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B3LLE4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI796_3501" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI1631_130190" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEJS01000053" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEHH01000056" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEEZ01000074" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADXC01000060" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVV01000066" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVS01000040" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ACFL01000345" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01001747" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AAFW02000020" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAA35204.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="A6ZLU9_YEAS7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="A6ZLU9" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_GeneID" dbAc="MI:9999" id="854925" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING_ext_id" dbAc="MI:9999" id="4932.YML115C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING" id="UserInput"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="11">
+        <names>
+          <shortLabel>HOC1</shortLabel>
+          <fullName>Alpha-1,6-mannosyltransferase involved in cell wall mannan biosynthesis; subunit of a Golgi-localized complex that also contains Anp1p, Mnn9p, Mnn11p, and Mnn10p; identified as a suppressor of a cell lysis sensitive pkc1-371 allele; The M-Pol II complex possesses alpha-1,6- mannosyltransferase activity and is probably involved in the elongation of the mannan backbone of N-linked glycans on cell wall and periplasmic proteins</fullName>
+        </names>
+        <xref>
+          <primaryRef db="refseq" dbAc="MI:9999" id="YJR075W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ID" dbAc="MI:9999" id="sce:YJR075W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="Z49575" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="YJR075Wp-like protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="ensembl.org" dbAc="MI:9999" id="YJR075W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VIN13_2673" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniParc" dbAc="MI:9999" id="UPI000016836D" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="U62942" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SCRG_03726" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_PIR" dbAc="MI:9999" id="S57094" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="S000003836" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="QA23_2688" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Putative glycosyltransferase HOC1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="P47124" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_012609.3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_012609.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NM_001181733.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Mannosyltransferase" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Mannan polymerase II complex HOC1 subunit" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="M-Pol II subunit Hoc1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="L47993" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000003274" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="K7_Hoc1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="K7_HOC1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Hoc1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="HOC1_YEAST" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EntrezGene" dbAc="MI:9999" id="HOC1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="G2WH79_YEASK" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="G2WH79" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSB_2655" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="FN393076" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ec" dbAc="MI:9999" id="EC:2.4.1.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="EC1118_1J19_0199g" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_synonym" dbAc="MI:9999" id="E9P8X6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7Q5Q1_YEASB" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7Q5Q1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7LWF4_YEASV" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7LWF4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KQK4_YEASL" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KQK4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KEH4_YEASA" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KEH4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="DG000046" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="DAA08861.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="D6VWP5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Conserved protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="CH408050" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="CAA89603.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C8ZBM2_YEAS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C8ZBM2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C7GMC9_YEAS2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C7GMC9" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="BK006943" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VLM7_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VLM7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B3LQG1_YEAS1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B3LQG1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AY692827" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI796_2690" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI1631_102650" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEHH01000043" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADXC01000046" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVV01000053" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVS01000033" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ACFL01000054" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01001368" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAT92846.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AAFW02000040" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAB49938.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAB39300.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="A6ZQ33_YEAS7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="A6ZQ33" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_GeneID" dbAc="MI:9999" id="853538" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EC_NUMBER" dbAc="MI:9999" id="2.4.-.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING_ext_id" dbAc="MI:9999" id="4932.YJR075W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING" id="UserInput"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="10">
+        <names>
+          <shortLabel>MNN11</shortLabel>
+          <fullName>Subunit of a Golgi mannosyltransferase complex that also contains Anp1p, Mnn9p, Mnn10p, and Hoc1p, and mediates elongation of the polysaccharide mannan backbone; has homology to Mnn10p; Required for synthesis of full length mannan chains</fullName>
+        </names>
+        <xref>
+          <primaryRef db="ensembl" dbAc="MI:0476" id="YJL183W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ID" dbAc="MI:9999" id="sce:YJL183W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="Z49458" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="YJL183Wp-like protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VL3_2475" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VIN13_2463" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniParc" dbAc="MI:9999" id="UPI0000403EDB" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SCRG_03496" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_PIR" dbAc="MI:9999" id="S56966" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_SGD" dbAc="MI:9999" id="S000003719" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="QA23_2473" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Probable alpha-1,6-mannosyltransferase MNN11" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_AC" dbAc="MI:9999" id="P46985" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_012352.2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NM_001181616.2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Mnn11p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Mannosyltransferase complex component" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Mannan polymerase II complex MNN11 subunit" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="MNN11_YEAST" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_SGD_GENE" dbAc="MI:9999" id="MNN11" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000004260" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="K7_Mnn11p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="K7_MNN11" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="G2WGJ3_YEASK" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="G2WGJ3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSO_2433" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSB_2447" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="FN393075" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ec" dbAc="MI:9999" id="EC:2.4.1.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="EC1118_1J11_0518g" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E9P8Z0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7QGB4_YEASZ" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7QGB4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7Q5C5_YEASB" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7Q5C5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7NJ65_YEASO" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7NJ65" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7LW61_YEASV" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7LW61" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KQ39_YEASL" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KQ39" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KE25_YEASA" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KE25" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="DG000046" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="DAA08623.2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_AC" dbAc="MI:9999" id="D6VW07" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="CH408050" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="CAA89478.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C8ZB36_YEAS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C8ZB36" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C7GS08_YEAS2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C7GS08" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="BK006943" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VL08_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VL08" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B3LPU3_YEAS1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B3LPU3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="AY692909" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI796_2482" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI1631_100320" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEJS01000040" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEHH01000040" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEEZ01000056" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADXC01000045" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVV01000049" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVS01000032" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ACFL01000164" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01001261" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAT92928.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AAFW02000044" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="A6ZQF2_YEAS7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="A6ZQF2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_GeneID" dbAc="MI:9999" id="853256" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING_ext_id" dbAc="MI:9999" id="4932.YJL183W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING" id="UserInput"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="9">
+        <names>
+          <shortLabel>OLE1</shortLabel>
+          <fullName>Delta(9) fatty acid desaturase, required for monounsaturated fatty acid synthesis and for normal distribution of mitochondria; Utilizes O(2) and electrons from the reduced cytochrome b(5) domain to catalyze the insertion of a double bond into a spectrum of fatty acyl-CoA substrates (Probable)</fullName>
+        </names>
+        <xref>
+          <primaryRef db="ensembl" dbAc="MI:0476" id="YGL055W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_SYNONYM" dbAc="MI:9999" id="stearoyl-CoA 9-desaturase" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ID" dbAc="MI:9999" id="sce:YGL055W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="Z72577" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="YGL055Wp-like protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VL3_1731" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VIN13_1722" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniParc" dbAc="MI:9999" id="UPI00001252C3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Stearoyl-CoA desaturase 1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SCRG_01057" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_PIR" dbAc="MI:9999" id="S64059" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_SGD" dbAc="MI:9999" id="S000003023" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="QA23_1730" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="P21147" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Ole1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_PRIMARY" dbAc="MI:9999" id="OLE1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_011460.3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_011460.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NM_001180920.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_SGD_GENE_synonym" dbAc="MI:9999" id="MDM2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000001297" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000001052" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="K7_Ole1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="K7_OLE1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EMBL" dbAc="MI:9999" id="J05676" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="G2WE43_YEASK" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="G2WE43" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Fatty acid desaturase 1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSO_1694" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSB_1712" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="FN393070" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ec" dbAc="MI:9999" id="EC:1.14.19.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="EC1118_1G1_2388g" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_synonym" dbAc="MI:9999" id="E9P911" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7QEU3_YEASZ" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7QEU3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7Q3V9_YEASB" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7Q3V9" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7NHP2_YEASO" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7NHP2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7LUE3_YEASV" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7LUE3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KNH2_YEASL" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KNH2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Delta-9-fatty acid desaturase" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="DG000043" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="DAA08047.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_AC" dbAc="MI:9999" id="D6VU86" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="CH408044" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="CAA96757.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C8Z8J2_YEAS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C8Z8J2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C7GRJ1_YEAS2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C7GRJ1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="BK006941" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VIR8_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VIR8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B3LHC4_YEAS1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B3LHC4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Acyl-CoA desaturase 1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EMBL" dbAc="MI:9999" id="AY693010" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI1631_71950" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEJS01000032" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEHH01000023" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEEZ01000040" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADXC01000034" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVV01000036" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="ACO1_YEAST" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ACFL01000144" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01000890" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAT93029.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AAFW02000099" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAA34826.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="A6ZUC1_YEAS7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="A6ZUC1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_GeneID" dbAc="MI:9999" id="852825" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EC_NUMBER" dbAc="MI:9999" id="1.14.19.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING_ext_id" dbAc="MI:9999" id="4932.YGL055W" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING" id="UserInput"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="8">
+        <names>
+          <shortLabel>ANP1</shortLabel>
+          <fullName>Subunit of the alpha-1,6 mannosyltransferase complex; type II membrane protein; has a role in retention of glycosyltransferases in the Golgi; involved in osmotic sensitivity and resistance to aminonitrophenyl propanediol; Involved in the organization of the secretory pathway. Required to maintain a functional Golgi apparatus</fullName>
+        </names>
+        <xref>
+          <primaryRef db="ensembl" dbAc="MI:0476" id="YEL036C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ID" dbAc="MI:9999" id="sce:YEL036C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="YEL036Cp-like protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VL3_1240" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="VIN13_1241" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniParc" dbAc="MI:9999" id="UPI0000052F8E" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="U18779" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SYGP-ORF28" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="SCRG_04434" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EMBL" dbAc="MI:9999" id="S66114" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="S65964" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_PIR" dbAc="MI:9999" id="S50508" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_SGD" dbAc="MI:9999" id="S000000762" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="QA23_1245" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_AC" dbAc="MI:9999" id="P32629" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NP_010878.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="NM_001178851.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DE" dbAc="MI:9999" id="Mannan polymerase II complex ANP1 subunit" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_EntrezGene_synonym" dbAc="MI:9999" id="MNN8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="L22173" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="L22171" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="SGD_ID" dbAc="MI:9999" id="L000000089" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="K7_Anp1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="K7_ANP1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_SGD_GENE_synonym" dbAc="MI:9999" id="GEM3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="G2WCJ7_YEASK" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="G2WCJ7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="FOSTERSO_1212" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="FN393067" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_KEGG_ec" dbAc="MI:9999" id="EC:2.4.1.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="EC1118_1E8_0441g" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7QDP2_YEASZ" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7QDP2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7NGS3_YEASO" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7NGS3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7LTL8_YEASV" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7LTL8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="E7KMG7_YEASL" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="E7KMG7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="DG000041" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="DAA07617.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_synonym" dbAc="MI:9999" id="D3DLL3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="CH408052" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C8Z6V8_YEAS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C8Z6V8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="C7GKD9_YEAS2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="C7GKD9" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_DR_EMBL" dbAc="MI:9999" id="BK006939" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VHA0_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VHA0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B5VH99_YEAS6" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B5VH99" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="B3LRY1_YEAS1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="B3LRY1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Anp1p" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="Aminonitrophenyl propanediol resistance protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_GN" dbAc="MI:9999" id="AWRI1631_50340" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_UniProt_ID" dbAc="MI:9999" id="ANP1_YEAST" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_SGD_TRANSCRIPT" dbAc="MI:9999" id="ANP1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DE" dbAc="MI:9999" id="ANP and osmotic sensitive-related protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEJS01000025" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AEEZ01000028" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADXC01000028" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ADVV01000027" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ACFL01000022" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01000634" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="ABSV01000633" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_EMBL" dbAc="MI:9999" id="AAFW02000048" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAD13971.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAB65006.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAB28440.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAA34937.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="Ensembl_protein_id" dbAc="MI:9999" id="AAA34426.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_ID" dbAc="MI:9999" id="A6ZQR4_YEAS7" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_AC" dbAc="MI:9999" id="A6ZQR4" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="BLAST_UniProt_DR_GeneID" dbAc="MI:9999" id="856675" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING_ext_id" dbAc="MI:9999" id="4932.YEL036C" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="STRING" id="UserInput"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+    </interactorList>
+    <interactionList>
+      <interaction id="94">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="96">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="95">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.982</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="91">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="93">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="92">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.836</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="88">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="90">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="89">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.9</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="85">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="87">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="86">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.979</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="82">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="84">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="83">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.924</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="79">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="81">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="80">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.9</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="76">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="78">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="77">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.792</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="73">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="75">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="74">
+            <interactorRef>9</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.633</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="70">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="72">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="71">
+            <interactorRef>9</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.08</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="67">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="69">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="68">
+            <interactorRef>9</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.618</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="64">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="66">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="65">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="61">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="63">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="62">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.919</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="58">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="60">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="59">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.8</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="55">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="57">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="56">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="52">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="54">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="53">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="49">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="51">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="50">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.847</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="46">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="48">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="47">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.8</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="43">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="45">
+            <interactorRef>10</interactorRef>
+          </participant>
+          <participant id="44">
+            <interactorRef>11</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="40">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="42">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="41">
+            <interactorRef>10</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="37">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="39">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="38">
+            <interactorRef>10</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.854</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="34">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="36">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="35">
+            <interactorRef>10</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.8</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="31">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="33">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="32">
+            <interactorRef>10</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.999</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="28">
+        <experimentList>
+          <experimentRef>4</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="30">
+            <interactorRef>8</interactorRef>
+          </participant>
+          <participant id="29">
+            <interactorRef>10</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.14</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="25">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="27">
+            <interactorRef>11</interactorRef>
+          </participant>
+          <participant id="26">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.984</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="22">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="24">
+            <interactorRef>11</interactorRef>
+          </participant>
+          <participant id="23">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.783</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="19">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="21">
+            <interactorRef>11</interactorRef>
+          </participant>
+          <participant id="20">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.9</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="16">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="18">
+            <interactorRef>11</interactorRef>
+          </participant>
+          <participant id="17">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.282</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="13">
+        <experimentList>
+          <experimentRef>4</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="15">
+            <interactorRef>11</interactorRef>
+          </participant>
+          <participant id="14">
+            <interactorRef>12</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.114</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+    </interactionList>
+  </entry>
+</entrySet>

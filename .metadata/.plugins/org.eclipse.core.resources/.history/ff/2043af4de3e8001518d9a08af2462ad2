@@ -1,0 +1,42 @@
+package biohacks.biohacksArtifact;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+
+public class FormatFasta {
+
+	
+	public static void writeFasta(String species, LinkedHashSet<String> sequences){
+		
+		
+		
+		try(PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("test.fasta", true)))) {
+		    
+			
+			for(String s : sequences){
+				out.println(">" + species);
+				out.println(s);
+				
+				out.println();
+			}
+			
+			out.println("the text");
+		    //more code
+		    out.println("more text");
+		    //more code
+		}catch (IOException e) {
+		    //exception handling left as an exercise for the reader
+		}
+		
+		for(String s : sequences){
+			
+			
+			
+		}
+	}
+
+}
