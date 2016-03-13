@@ -1,0 +1,146 @@
+ glucose-6-phosphate isomerase 
+ trans-2-enoyl-CoA reductase 
+ glucose-1-phosphate thymidylyltransferase 
+ thiol-activated cytolysin 
+ FAD-binding protein 
+ leucine--tRNA ligase 
+ leucyl-tRNA synthetase 
+ dihydrodipicolinate synthase family protein 
+ chondroitin sulfate ABC lyase 
+ hypothetical protein 
+ hypothetical protein AWN65_08505 
+  outer membrane protein 
+ cell envelope biogenesis protein OmpA 
+ outer membrane protein, partial 
+  collagenase 
+ ATPase/protein kinase 
+ hypothetical protein AWN65_06580 
+ glycosyl transferase 
+ hypothetical protein AWN65_05030 
+ quinolinate synthetase 
+ alpha/beta hydrolase 
+ protein kinase 
+ collagenase 
+ peptidase U32 
+ RNA methyltransferase 
+ tRNA/rRNA methyltransferase 
+ acetyl-CoA acetyltransferase 
+ nucleotidyltransferase 
+ asparagine synthase B 
+ asparagine synthetase B 
+ short-chain dehydrogenase 
+ acyl-CoA dehydrogenase 
+  MFS transporter 
+  RND transporter 
+  aminopeptidase 
+ MFS transporter 
+ GCN5-related N-acetyltransferase 
+ RND transporter 
+ hypothetical protein AWN65_08390 
+ aminopeptidase 
+  peptidase C1 
+ peptidase C1 
+ peptidase C1A papain 
+ ABC transporter ATP-binding protein 
+ ABC transporter ATPase 
+ 50S ribosomal protein L7/L12 
+  ABC transporter 
+ TonB-dependent receptor 
+  peptidase S46 
+  peptidase M23 
+ peptidase S46 
+ glycosyl transferase family 2 
+ peptidase M23 
+  peptidase M4 
+ catalase/peroxidase HPI 
+ thermolysin metallopeptidase precursor 
+ peptidase M4 
+ peptidase M4, thermolysin 
+ peroxidase 
+ riboflavin biosynthesis protein RibD 
+  adhesin SprB 
+ adhesin SprB 
+ hypothetical protein AWN65_06405 
+ hypothetical protein AWN65_03135 
+ glucose transporter 
+ sugar-transporting permease 
+ urocanate hydratase 
+ phosphoribosylformylglycinamidine synthase 
+ glycerol acyltransferase 
+ aspartate--tRNA ligase 
+ aspartyl-tRNA synthetase 
+  ATPase AAA 
+  ATPase 
+ glycine dehydrogenase 
+ homogentisate 1,2-dioxygenase 
+  band 7 protein 
+  AAA family ATPase 
+ nitrous-oxide reductase 
+ nitrous oxide reductase 
+ band 7 protein 
+ MFS transporter permease 
+ aldehyde reductase 
+ aldehyde oxidoreductase 
+ alcohol dehydrogenase 
+ ATPase AAA 
+ ATPase 
+  endopeptidase La 
+ DNA gyrase subunit A 
+ endopeptidase La 
+ Lon protease 
+ hypothetical protein AWN65_13395 
+ elongation factor Tu 
+  membrane protein 
+ major outer membrane protein 
+ membrane protein 
+ putative nitrite reductase 
+ nitrite reductase, copper-containing 
+ NADH dehydrogenase 
+ NADH dehydrogenase subunit G, partial 
+ competence damage-inducible protein A 
+ CinA-like protein 
+ phosphopantothenoylcysteine decarboxylase 
+ endopeptidase Clp 
+ DNA processing protein DprA 
+ ATP synthase subunit beta 
+ F0F1 ATP synthase subunit beta 
+  peptidase M1 
+ peptidase M1 
+  thioesterase 
+ ATP-dependent chaperone ClpB 
+ thioesterase 
+  decarboxylase 
+ decarboxylase 
+ Orn/DAP/Arg decarboxylase 2 
+ arginine decarboxylase 
+  L-asparaginase 1 
+  transketolase 
+ L-asparaginase 1 
+ asparaginase 1 
+ transketolase 
+  serine protease 
+ PKD domain-containing protein 
+ serine protease 
+ Fe-S cluster assembly protein SufD 
+ FeS assembly protein SufD 
+ succinate dehydrogenase 
+ fumarate reductase 
+  phospholipase 
+ hypothetical protein AWN65_04990 
+ protein translocase subunit SecDF 
+ preprotein translocase subunit SecD 
+ abortive infection protein 
+ abortive phage infection protein 
+ molecular chaperone DnaK, partial 
+ molecular chaperone DnaK 
+ phospholipase 
+ esterase 
+ methylcrotonoyl-CoA carboxylase 
+ propionyl-CoA carboxylase 
+ conserved hypothetical protein 
+ cation transporter 
+ phenylalanine 4-monooxygenase 
+ deoxyhypusine synthase 
+ 1-pyrroline-5-carboxylate dehydrogenase 
+ methylmalonyl-CoA mutase 
+

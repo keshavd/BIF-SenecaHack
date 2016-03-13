@@ -1,14 +1,11 @@
-# BIF-SenecaHack
+# Proteomic Network Visualization: A Pipeline from PRIDE to Cytoscape
 
-##Mass Spectrum to Protein
-
-Protein Mass spectrometry is application of mass spectrometry to proteins. Mass spectrometry is a technique that sorts ions according to their mass and gives exact chemical composition of a sample. Mass spectrum is a plot representing an intensity vs mass to charge ratio (m/z). Peaks found on a protein mass spectrum can be used to identify aminoacid residues present. This challenge focusses on obtaining information (structure, chemical composition) of a protein by utilizing mass spectrum given by designing a computational tool. You can use following mass spectrum data from a to C to develop your tool and identify the given examples.
+This software package provides rapid visualization of protein functional networks via a pipeline that connects raw data from [PRIDE](http://www.ebi.ac.uk/pride/archive/) to functional interaction networks at [STRING](http://string-db.org/)
 
 
-Lınks to the data sets:
+Contributors: Nishanth Merwin, Winfield Ly, Ali Mahmood, Keshav Dial, Andrew Li
 
-1. https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00096 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00096) (MS data is located under data_mzXML)
+Special thanks to the organizors and sponsors of UofT Biohacks 2016 and iGEM.
 
-2: https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00011 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00011) (MS data are the mzXML files, not the excel files)
 
-3: https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00091 (https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_View?identifier=PASS00091) (MS data in the mzXML_Part# folders)
+
