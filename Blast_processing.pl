@@ -24,6 +24,8 @@ my $number_of_iterations = (($number_of_fasta_lines - $number_of_fasta_lines%60)
 my $species = $total_fasta_lines[0];
 chomp($species = substr($species, 1));
 
+open my $out, ">>", "output.txt";
+print $out "$species\n";
 
 for(my $i=0; $i<$number_of_iterations; $i++){
  	open my $fasta, ">", "input.fasta";
@@ -54,8 +56,6 @@ for(my $i=0; $i<$number_of_iterations; $i++){
  	#print "@proteins";
  	#print scalar @proteins;
 
- 	open my $out, ">>", "output.txt";
- 	print $out "$species\n";
 	foreach(@proteins){
 		print $out "$_\n";
 	}
