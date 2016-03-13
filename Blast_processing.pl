@@ -44,17 +44,19 @@ for(my $i=0; $i<$number_of_iterations; $i++){
  	my @proteins;
  	foreach (@relevant_lines){
  		my @split_search = split(/\|/, $_);
- 		if($split_search[1]){
- 			my $protein_name = $split_search[1];
- 			push @proteins, $protein_name;
+ 		if($split_search[2]){
+ 			my $protein_name = $split_search[2];
+ 			my @split_protein_name = split(/\[/, $protein_name);
+ 			my $cleaned = $split_protein_name[0];
+ 			push @proteins, $cleaned;
  		}
  	}
  	#print "@proteins";
  	#print scalar @proteins;
 
  	open my $out, ">>", "output.txt";
-
+ 	print $out "$species\n";
 	foreach(@proteins){
-		print $out "$_:$species\n";
+		print $out "$_\n";
 	}
  }
