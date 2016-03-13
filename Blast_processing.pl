@@ -60,3 +60,4 @@ for(my $i=0; $i<$number_of_iterations; $i++){
 		print $out "$_\n";
 	}
  }
+system "awk '!a[$0]++' output.txt";
